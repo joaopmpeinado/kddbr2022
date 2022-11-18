@@ -10,7 +10,7 @@ Next to that, we create the folds, segregating them by sequence, the file for ge
 
 Our final solution was a stacking of 15 different models, that use the features generated in the part #1 and #2 of our solution, these models can be found at `/src/L0_models`, the final stacking can be found at `/src/L1_models`.
 
-To gerenate out final solution, just clone this repo and run the file `/src/L1_models/stacking.ipynb`.
+To gerenate our final solution, just clone this repo and run the file `/src/L1_models/stacking.ipynb`.
 
 ### Level-0 Models
 
